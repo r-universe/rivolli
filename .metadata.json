@@ -1,9 +1,5 @@
 [
   {
-    "package": "mfe",
-    "oncran": true
-  },
-  {
     "package": "utiml",
     "oncran": true
   }
