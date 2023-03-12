@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mfe"]
-	path = mfe
-	url = https://github.com/rivolli/mfe
-	shallow = true
-	registered = true
 [submodule "utiml"]
 	path = utiml
 	url = https://github.com/rivolli/utiml
+	shallow = true
+	registered = true
+[submodule "mfe"]
+	path = mfe
+	url = https://github.com/rivolli/mfe
 	shallow = true
 	registered = true
